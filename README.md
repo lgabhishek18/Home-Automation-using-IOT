@@ -26,8 +26,8 @@ The Android Blynk app sends the serial data to the Wi-Fi Node MCU by clicking ON
 
 Download the Blynk application from play store and install it on your device.
 
-<img src="images/Blynk1.jpg" width='100' height='200'>
+<img src="images/Blynk1.jpg" width='300' height='500'>
 
-
+<img src="images/Blynk2.jpg" width='300' height='500'>
 
 
