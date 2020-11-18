@@ -1,6 +1,8 @@
 # Home-Automation-using-IOT
 Home Automation Project using NodeMCU and Relay module.
- 
+
+### LINK TO MY VIDEO : https://youtu.be/3K_Lts9pq3o
+
 In this project, we are going to build a home light controlling system using the Wi-Fi network or Internet (Mobile data). Using this project we are able to control our home light from anywhere in the world. In this project, we will use Wi-Fi Node MCU, 4 Channel Relay module, etc.
 
 ## Hardware Requirements
