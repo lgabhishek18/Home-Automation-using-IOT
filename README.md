@@ -20,7 +20,7 @@ In this project, we are going to build a home light controlling system using the
 Working principle of this project (Node MCU, Relay Module)
 In this project, there are three main components used an Android Blynk app, Wi-Fi Node MCU and 4 Channel Relay module.
 
-
+![](images/diag.png)
 
 The Android Blynk app sends the serial data to the Wi-Fi Node MCU by clicking ON button. The Wi-Fi Node read the input data and process it according to program uploaded inside it and generate the output to 4 Chanel Relay Module.
 When the Blynk app's button turns on, it turns ON the home light, and when the Blynk app's buttons turns OFF, it turns OFF the home light.
